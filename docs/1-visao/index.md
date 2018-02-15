@@ -1,29 +1,31 @@
 # Documento de Visão do Projeto "NOME DO PROJETO"
 
-Este documento apresenta uma solução de software para o projeto *"NOME DO PROJETO"*, solicitado pelo cliente *"NOME DO CLIENTE"*, 
+Este documento apresenta uma solução de software para o projeto *"Cano Bank"*, solicitado pelo cliente *"Rafael Guerra"*, 
 apresentando os problemas a serem solucionados, as necessidades dos principais envolvidos, o alcance do projeto e as funcionalidades 
 esperadas do sistema.
 
 ## Objetivos
 
-* Objetivo 1
-* Objetivo 2
-* Objetivo 3
-* etc.
+* Possibilitar a gestão do processo de inovação, sobretudo no que se relaciona à captação, à seleção e ao desenvolvimento de ideias em ambiente colaborativo,
+* Gestão do portfólio de ideias para subsidiar a priorização de projetos de inovação. 
 
 ## Problema
 
-* Descrição do problema: ___
-* Quem é afetado pelo problema: ____
-* Impacto no negócio: ___
-* Benefícios de uma boa solução: ___
+* Descrição do problema: a captação de ideias por e desafios junto ao publico interno; desenvolvimento de ideias em ambiente colaborativo; gerir um portifólio de ideias
+* Quem é afetado pelo problema: tanto o cliente como o Banco do  Brasil
+* Impacto no negócio: Grande
+* Benefícios de uma boa solução: Grande
 
 ## Definições, abreviações e outros termos do domínio do problema
 
-* Definição 1
-* Definição 2
-* Definição 3
-* etc.
+* Ideação: captar ideias para fomentar o processo de inovação da Ditec –
+Banco do Brasil por meio de lançamento de campanhas e desafios junto à
+comunidade de inovação. 
+* Colaboração: realizar interações junto às comunidades de inovação por
+meio de fóruns de discussão, relacionamentos, blogs, wikis e outras
+atividades colaborativas. 
+*  Desenvolvimento de Ideias: possibilitar a maturação e seleção de ideias
+por meio de estágios, perfazendo o funil da inovação. 
 
 ## Integração com outros sistemas
 
